@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'u10app734'
           slot-name: 'u10dev'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_407AB0069E474CA9ABA450B294797371 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40403A787A6E4D56950E50F27FD7DDDE }}
           package: .
